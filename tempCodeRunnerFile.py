@@ -1,0 +1,1 @@
+https://storage.openvinotoolkit.org/repositories/openvino_notebooks/data/
