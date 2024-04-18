@@ -46,8 +46,8 @@ This batch file is intended for those who prefer not to manage virtual environme
 
 #### Steps:
 
-1. **Install Packages**: Uses `pip` to install all required packages from `requirements.txt`.
-2. **Run Script**: Executes the Python script.
+
+1. **Run Script**: Executes the Python script.
 
 #### How to Run:
 
